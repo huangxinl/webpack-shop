@@ -1,2 +1,4 @@
 
-![这个括号里写的在图片加载失败时显示](https://github.com/huangxinl/webpack-shop/blob/master/src/img/1.jpg)
+# npm run duyi
+
+![Alt](https://avatar.csdn.net/7/7/B/1_ralf_hx163com.jpg)
