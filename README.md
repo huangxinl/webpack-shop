@@ -1,4 +1,4 @@
 
 # npm run duyi
 
-![Alt](https://avatar.csdn.net/7/7/B/1_ralf_hx163com.jpg)
+![Alt](https://github.com/huangxinl/webpack-shop/blob/master/JV%7D)GH%7B5%5BEF%7BMR~TP_ZNM%40D.png)
